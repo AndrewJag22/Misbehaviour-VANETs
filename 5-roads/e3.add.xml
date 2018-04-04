@@ -1,0 +1,51 @@
+<additional >
+    <e3Detector id="e3_0_2" freq="30" file="e3_0_2.xml">
+        <detEntry lane="2i_0" pos="11.55"/>
+        <detEntry lane="2i_1" pos="11.55"/>
+        <detEntry lane="2o_0" pos="372.55"/>
+        <detExit lane="2i_0" pos="-.1"/>
+        <detExit lane="2i_1" pos="-.1"/>
+        <detExit lane="2o_0" pos="0.92"/>
+    </e3Detector>
+    <e3Detector id="e3_0_3" freq="30" file="e3_0_3.xml">
+        <detEntry lane="3i_0" pos="11.55"/>
+        <detEntry lane="3o_0" pos="372.55"/>
+        <detEntry lane="3o_1" pos="372.55"/>
+        <detExit lane="3i_0" pos="-.1"/>
+        <detExit lane="3o_0" pos="0.92"/>
+        <detExit lane="3o_1" pos="0.92"/>
+    </e3Detector>
+    <e3Detector id="e3_0_4" freq="30" file="e3_0_4.xml">
+        <detEntry lane="4i_0" pos="11.55"/>
+        <detEntry lane="4i_1" pos="11.55"/>
+        <detEntry lane="4o_0" pos="384.55"/>
+        <detExit lane="4i_0" pos="-.1"/>
+        <detExit lane="4i_1" pos="-.1"/>
+        <detExit lane="4o_0" pos="0.92"/>
+    </e3Detector>
+    <e3Detector id="e3_0_5" freq="30" file="e3_0_5.xml">
+        <detEntry lane="5i_0" pos="11.55"/>
+        <detEntry lane="5o_0" pos="384.55"/>
+        <detEntry lane="5o_1" pos="384.55"/>
+        <detExit lane="5i_0" pos="-.1"/>
+        <detExit lane="5o_0" pos="0.92"/>
+        <detExit lane="5o_1" pos="0.92"/>
+    </e3Detector>
+ 
+    <e3Detector id="e3_0_1" freq="30" file="e3_0_1.xml">
+        <detEntry lane="1i_0" pos="2.55"/>
+        <detEntry lane="1i_1" pos="2.55"/>
+        <detEntry lane="1i_2" pos="2.55"/>
+        <detEntry lane="1o_0" pos="233.55"/>
+        <detEntry lane="1o_1" pos="233.55"/>
+        <detEntry lane="1o_2" pos="233.55"/>
+
+
+        <detExit lane="1i_0" pos="233.55"/>
+        <detExit lane="1i_1" pos="233.55"/>
+        <detExit lane="1i_2" pos="233.55"/>
+        <detExit lane="1o_0" pos="2.55"/>
+        <detExit lane="1o_1" pos="2.55"/>
+        <detExit lane="1o_2" pos="2.55"/>
+    </e3Detector>
+</additional>

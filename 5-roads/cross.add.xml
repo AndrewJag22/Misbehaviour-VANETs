@@ -1,0 +1,28 @@
+<add>
+	<entryExitDetector id="0" freq="30" file="entryexit0.xml">
+		<detEntry lane="4i_0" pos="20"  friendlyPos="false"/>
+		<detEntry lane="4i_1" pos="20"  friendlyPos="false"/>
+		<detEntry lane="4i_2" pos="20"  friendlyPos="false"/>
+		<detEntry lane="4i_3" pos="20"  friendlyPos="false"/>
+		<detExit lane="4i_0" pos="484"  friendlyPos="false"/>
+		<detExit lane="4i_1" pos="484"  friendlyPos="false"/>
+		<detExit lane="4i_2" pos="484"  friendlyPos="false"/>
+		<detExit lane="4i_3" pos="484"  friendlyPos="false"/>
+
+	</entryExitDetector>
+
+
+	<entryExitDetector id="1" freq="30" file="entryexit1.xml">
+		<detEntry lane="2i_0" pos="20"  friendlyPos="false"/>
+		<detEntry lane="2i_1" pos="20"  friendlyPos="false"/>
+		<detEntry lane="2i_2" pos="20"  friendlyPos="false"/>
+
+		<detExit lane="2i_0" pos="495"  friendlyPos="false"/>
+		<detExit lane="2i_1" pos="495"  friendlyPos="false"/>
+		<detExit lane="2i_2" pos="495"  friendlyPos="false"/>
+
+
+	</entryExitDetector>
+	
+	
+</add>
