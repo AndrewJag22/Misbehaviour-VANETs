@@ -48,7 +48,7 @@ export SUMO_PATH=/path/to/sumo
     ```
     sumo-gui map.sumocfg
     ```
-    This will generate the data in the output files of the detectors. Note that all detectors are producing correct results write now.
+    This will generate the data in the output files of the detectors. Note that all detectors are producing correct results right now.
 
 
 6. The xml output files can be easily converted into csv file:
